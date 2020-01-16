@@ -1,13 +1,4 @@
 #My Second Repository
-My first commit
+My first file in the Repository
 ##New Changes Made to file
-Second commit
-#Some Ipsum Text
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eu justo malesuada, 
-commodo enim eget, commodo ex. 
-Integer blandit urna turpis, in venenatis metus ullamcorper viverra. 
-Donec hendrerit et sem eget vulputate. 
-Morbi eu felis vitae diam egestas sagittis. 
-Donec sit amet ex quis augue gravida faucibus at a elit. 
-Fusce sapien nisi, suscipit a urna sed, tristique malesuada tellus.
- Pellentesque venenatis sapien posuere laoreet convallis.
+1.index.html
